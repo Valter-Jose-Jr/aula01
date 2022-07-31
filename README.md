@@ -1,2 +1,4 @@
 # aula01
- aula de git e github guanabara
+ Aula de git e github guanabara.
+ Como é bom desenvolver o que se gosta pra mim está sendo fantástico tudo isso.
+ Estou fazendo repositorios dos meus exercícios
